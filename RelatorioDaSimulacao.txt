@@ -1,0 +1,46 @@
+*************************
+Relatório da Simulação
+*************************
+
+Total de mensagens emitidas: 157
+Total de mensages finalizadas: 128
+Total de mensagens no sistema não entregues por conta do término da simulação: 140
+Total de mensagens adiadas: 10
+Total de mensagens com sucesso: 146
+Total de mensagens com falha: 2
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Total de mensagens por tipo:
+
+LLS: 71         LLF: 0         LLA: 6
+LRS: 42         LRF: 0         LRA: 0
+RLS: 18         RLF: 0         RLA: 0
+RRS: 15         RRF: 2         RRA: 4
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Em um dado instante:
+
+Mínimo de mensagens no sistema: 1.0
+Máximo de mensagens no sistema: 46.0
+Média de mensagens no sistema: 25,88
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Taxa de ocupação dos centros:
+
+Tamanho mínimo da fila local: 1
+Tamanho máximo da fila local: 27
+Tamanho mínimo da fila remota: 0
+Tamanho máximo da fila remota: 17
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Tempo de trânsito das mensagens:
+
+Mínimo: 0,14         Médio: 0,58         Máximo: 0,88
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Fim do relatório.
